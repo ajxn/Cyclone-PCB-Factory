@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10442930.svg)](https://doi.org/10.5281/zenodo.10442930)
 <p align="center">
 <img src="Media/CycloneLogo_1/CycloneLogo_1.png" width="70%">
 <div align="center"><i>A 3D-printable (Rep-Rap alike) CNC machine, intended for PCB manufacture.</i></div>
@@ -189,3 +189,18 @@ Disclaimer
 --
 This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages.  
 
+Please cite as:
+--
+Garcia-Saura, C. (2013). Cyclone PCB Factory. GitHub. https://doi.org/10.5281/ZENODO.10442930
+
+Latex / Bibtex citation:
+```bibtex
+@misc{cyclonepcb2013,
+  author = {Garcia-Saura, Carlos},
+  title = {Cyclone PCB Factory},
+  publisher = {GitHub},
+  year = {2013},
+  doi = {10.5281/ZENODO.10442930},
+  url = {https://doi.org/10.5281/ZENODO.10442930}
+}
+```
